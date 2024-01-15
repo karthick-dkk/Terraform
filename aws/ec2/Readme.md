@@ -1,6 +1,6 @@
 # Create an AWS autoscaling group based instance on the network traffic load average of the instances. 
 
-# 1. Create an autoscaling group in AWS with min 2 and max five instances. 
+## 1. Create an autoscaling group in AWS with min 2 and max five instances. 
 
 # 1.1 Create load balancer and two subnets in two different Availability Zones and add to instnace.
 
