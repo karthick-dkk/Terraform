@@ -26,8 +26,12 @@ terraform init
 ```
 terraform plan -var=file=app_tfvars
 ```
+
 ### Apply the Terraform 
 ```
 terraform apply -var=file=app_tfvars
 ```
-
+### Delete 
+```
+terraform destroy  -var-file=app.tfvars
+```
