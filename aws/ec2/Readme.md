@@ -18,20 +18,20 @@
 ### Pre-Requests
 #### 1. AWS-CLI
 
-### Initialize plugins for terraform
+### Initialize plugins for terraform 
 ```
 terraform init
 ```
-### Test trerraform 
+### Test the config
 ```
 terraform plan -var-file=app_tfvars
 ```
 
-### Apply the Terraform 
+### Apply the Terraform  config
 ```
 terraform apply -var-file=app_tfvars
 ```
-### Delete 
+### Delete the Terraform config
 ```
 terraform destroy  -var-file=app.tfvars
 ```
