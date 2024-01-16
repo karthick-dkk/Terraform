@@ -14,3 +14,18 @@
 ## 5. Sends email alerts on the scaling and refresh events
 
 ![Screenshot 2024-01-15 231824](https://github.com/karthick-dkk/Terraform/assets/128692563/5ae199d0-d814-4ed2-b172-8c7d8f595ca8)
+
+
+### Initialize plugins for terraform
+```
+terraform init
+```
+### Test trerraform 
+```
+terraform plan -var=file=app_tfvars
+```
+### Apply the Terraform 
+```
+terraform apply -var=file=app_tfvars
+```
+
