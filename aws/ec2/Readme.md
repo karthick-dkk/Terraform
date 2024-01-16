@@ -24,12 +24,12 @@ terraform init
 ```
 ### Test trerraform 
 ```
-terraform plan -var=file=app_tfvars
+terraform plan -var-file=app_tfvars
 ```
 
 ### Apply the Terraform 
 ```
-terraform apply -var=file=app_tfvars
+terraform apply -var-file=app_tfvars
 ```
 ### Delete 
 ```
