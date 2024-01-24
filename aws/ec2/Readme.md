@@ -3,7 +3,7 @@
 ## Steps: 
 ## 1. Creating an autoscaling group in AWS with min 2 and max five instances. 
 
-### 1.1 Create load balancer and two subnets in two different Availability Zones.
+### 1.1 Create load balancer with two different Availability Zones.
 
 ## 2. When the 5 mins CPU Utilization of the machines reaches 75%, add a new instance.
 
