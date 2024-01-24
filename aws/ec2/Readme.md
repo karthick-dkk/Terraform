@@ -12,7 +12,7 @@
 ## 4. Everyday at UTC 12am, refresh all the machines in the group (remove all the old machines and add new machines).
 
 ## 5. Sends email alerts on the scaling and refresh events
-# Link: https://karthick-dk.hashnode.dev/terraform-iac-automation-end-to-end-project
+### Blog: https://karthick-dk.hashnode.dev/terraform-iac-automation-end-to-end-project
 
 ![Terraform-karthick](https://github.com/karthick-dkk/Terraform/assets/128692563/675fef15-5710-4952-8056-d61b28e659c4)
 
