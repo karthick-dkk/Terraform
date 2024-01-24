@@ -14,7 +14,8 @@
 ## 5. Sends email alerts on the scaling and refresh events
 # Link: https://karthick-dk.hashnode.dev/terraform-iac-automation-end-to-end-project
 
-![Screenshot 2024-01-15 231824](https://github.com/karthick-dkk/Terraform/assets/128692563/5ae199d0-d814-4ed2-b172-8c7d8f595ca8)
+![Terraform-karthick](https://github.com/karthick-dkk/Terraform/assets/128692563/675fef15-5710-4952-8056-d61b28e659c4)
+
 
 ### Pre-Requests
 #### 1. AWS-CLI
