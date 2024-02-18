@@ -1,3 +1,9 @@
+################################################
+#Welcome to terraform project
+#MAINTAIN BY https://github.com/karthick-dkk
+#Support: https://www.linkedin.com/in/karthick-dkk/
+################################################
+
 variable "aws_region" {
   description = "AWS e region"
   type        = string
@@ -6,6 +12,7 @@ variable "aws_region" {
 variable "image_id" {
   description = "AMI ID for the instances"
   type        = string
+  default ="ami-020f3ca563c92097b"
 }
 variable "key_name" {
   description = "Security key"

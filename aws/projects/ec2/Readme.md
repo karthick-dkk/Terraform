@@ -26,14 +26,21 @@ terraform init
 ```
 ### Test the config
 ```
-terraform plan -var-file=app_tfvars
+terraform plan -var-file=app.tfvars
 ```
 
 ### Apply the Terraform  config
 ```
-terraform apply -var-file=app_tfvars
+terraform apply -var-file=app.tfvars
 ```
 ### Delete the Terraform config
 ```
 terraform destroy  -var-file=app.tfvars
 ```
+
+
+################################################
+#Welcome to terraform project
+#MAINTAIN BY: https://github.com/karthick-dkk
+#Support: https://www.linkedin.com/in/karthick-dkk/
+################################################
