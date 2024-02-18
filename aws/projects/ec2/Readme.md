@@ -18,7 +18,8 @@
 
 
 ### Pre-Requests
-#### 1. AWS-CLI
+
+#### 1. Install AWS-CLI and configure the keys
 
 ### Initialize plugins for terraform 
 ```
