@@ -1,4 +1,5 @@
 # Create an AWS autoscaling group-based instance on the CPU Utilization  of the instances. 
+### Blog: https://medium.com/@karthidkk123/aws-ec2-auto-scaling-using-iac-terraform-bdb837c5b80e
 
 ## Steps: 
 ## 1. Creating an autoscaling group in AWS with min 2 and max five instances. 
@@ -14,7 +15,6 @@
 ## 5. Sends email alerts on the scaling and refresh events
 
 
-![Terraform-karthick](https://medium.com/@karthidkk123/aws-ec2-auto-scaling-using-iac-terraform-bdb837c5b80e)
 
 
 ### Pre-Requests
