@@ -12,7 +12,7 @@
 ## 4. Every day at UTC midnight, refresh all the machines in the group (remove all the old machines and add new machines).
 
 ## 5. Sends email alerts on the scaling and refresh events
-### Blog: https://karthick-dk.hashnode.dev/terraform-iac-automation-end-to-end-project
+
 
 ![Terraform-karthick](https://medium.com/@karthidkk123/aws-ec2-auto-scaling-using-iac-terraform-bdb837c5b80e)
 
